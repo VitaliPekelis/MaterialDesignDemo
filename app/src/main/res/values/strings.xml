@@ -221,5 +221,6 @@
     <string name="banner_ad_unit_id_donate">ca-app-pub-1251484082745159/2015219028</string>
     <string name="banner_ad_unit_id_main">ca-app-pub-1251484082745159/1419789825</string>
     <string name="native_ad_unit_id_main">ca-app-pub-1251484082745159/8449555424</string>
+    <string name="shr_hint_username">Username</string>
 
 </resources>
